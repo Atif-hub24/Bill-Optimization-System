@@ -1,7 +1,3 @@
-The README file for the Bill Optimization System repository currently outlines the project using npm for installation. Here is an updated version for a Python-based project:
-
-# Bill Optimization System
-
 ## Overview
 The Bill Optimization System is designed to help users optimize their utility bills by analyzing their usage patterns and suggesting cost-saving measures.
 
@@ -61,5 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
-
-You can update the README file directly in the repository or use your preferred method to update it.
