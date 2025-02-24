@@ -1,4 +1,4 @@
-#Bill Optimization System
+# Bill Optimization System
 ## Overview
 The Bill Optimization System is designed to help users optimize their utility bills by analyzing their usage patterns and suggesting cost-saving measures.
 
