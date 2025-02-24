@@ -1,3 +1,5 @@
+The README file for the Bill Optimization System repository currently outlines the project using npm for installation. Here is an updated version for a Python-based project:
+
 # Bill Optimization System
 
 ## Overview
@@ -20,17 +22,21 @@ To install the Bill Optimization System, follow these steps:
    ```
    cd Bill-Optimization-System
    ```
-3. Install the required dependencies:
+3. (Optional) Create a virtual environment:
    ```
-   npm install
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   ```
+4. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
    ```
 
 ## Usage
 To start the application, run:
 ```
-npm start
+python bill_optimization.py
 ```
-Open your browser and navigate to `http://localhost:3000` to access the application.
 
 ## Contributing
 We welcome contributions to the Bill Optimization System. To contribute, follow these steps:
@@ -55,3 +61,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
+
+You can update the README file directly in the repository or use your preferred method to update it.
